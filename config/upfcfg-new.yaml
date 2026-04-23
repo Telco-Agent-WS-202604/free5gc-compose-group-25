@@ -2,7 +2,7 @@ version: 1.0.3
 description: UPF for new slice
 pfcp:
   addr: 0.0.0.0
-  nodeID: 0.0.0.0
+  nodeID: 172.31.6.158
   retransTimeout: 1s
   maxRetrans: 3
 gtpu:
